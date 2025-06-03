@@ -1,0 +1,18 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Python Book",
+    "author": "Mausham",
+    "copies": 5,
+    "copies_left": 3,
+    "price": 250.0
+  },
+  "2": {
+    "id": 2,
+    "name": "Chalo kuch acche baate karte h",
+    "author": "Mausham Kumar",
+    "copies": 2,
+    "copies_left": 2,
+    "price": 130.5
+  }
+}
